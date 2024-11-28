@@ -84,5 +84,4 @@ Minimize Button: Minimizes the window to the taskbar.
 Screenshot of the Interface:
 Add relevant screenshots here to visu
 
-Developer Name:
-MR_talalq8x
+------------------------------------------------------------------------------------------------------
